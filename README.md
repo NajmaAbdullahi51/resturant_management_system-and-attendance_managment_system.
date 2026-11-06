@@ -1,2 +1,2 @@
-# cloud-security-journey
-My learning journey in Cybersecurity, Cloud Security, AWS, Linux, Networking and Python.
+# resturant_management_system and student_attendance_system.
+A web-based application built waith php,laravel,and mysql for managing system efficiently.
